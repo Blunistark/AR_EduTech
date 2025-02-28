@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95e66c6366d904e98bc83428217d4fd7, type: 3}
+  m_Name: playergraph
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":0.0,"y":0.0},"zoom":1.0,"elements":[{"coroutine":false,"defaultValues":{},"position":{"x":-446.0,"y":-286.0},"guid":"1c32315c-6aba-4abd-a066-a5132e44d7a5","$version":"A","$type":"Unity.VisualScripting.FixedUpdate"},{"member":{"name":"OnGazeStay","parameterTypes":null,"targetType":"TS.GazeInteraction.GazeInteractable","targetTypeName":"TS.GazeInteraction.GazeInteractable","$version":"A"},"defaultValues":{"target":null},"position":{"x":-322.0,"y":-111.0},"guid":"64f2ce66-7b79-42f4-bcfb-c59f46c1cff5","$version":"A","$type":"Unity.VisualScripting.GetMember"},{"chainable":false,"parameterNames":[],"member":{"name":"Activate","parameterTypes":[],"targetType":"TS.GazeInteraction.GazeInteractable","targetTypeName":"TS.GazeInteraction.GazeInteractable","$version":"A"},"defaultValues":{"target":null},"position":{"x":-34.0,"y":-229.0},"guid":"f29b1462-30e6-4f07-a42a-a3052bbdf253","$version":"A","$type":"Unity.VisualScripting.InvokeMember"}],"$version":"A"}}'
+    _objectReferences: []
